@@ -1,7 +1,7 @@
 [app]
 
 # (str) Title of your application
-title = Raindrop Catcher
+title = Rainy Rush
 
 # (str) Package name
 package.name = flooding
