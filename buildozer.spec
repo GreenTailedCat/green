@@ -60,8 +60,8 @@ orientation = portrait
 # OSX Specific
 #
 
-#
-# author = © Copyright Info
+
+author = © GreenTailedCat
 
 # change the major version of python used by the app
 osx.python_version = 3
